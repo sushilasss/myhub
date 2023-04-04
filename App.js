@@ -47,7 +47,7 @@ function App() {
                     throw new RuntimeException("Test Crash");
                 }}  
                 style={{width:"50%",height:"40%",borderRadius:10,backgroundColor:"blue"}}>
-                <Text style={{color:"white",textAlign:"center",fontSize:20,marginTop:"10%"}}>Next</Text>
+                <Text style={{color:"white",textAlign:"center",fontSize:20,marginTop:"10%"}}>press</Text>
                 </TouchableOpacity>
 
                 {/* <GoogleSigninButton
